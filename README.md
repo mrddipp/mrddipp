@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mrddipp
+- 👀 I’m interested in Machine Learning with python relating to Mechanical Engineering.
+- 🌱 I’m currently learning the same.
+- 📫 You may reach me over LinkedIn via following link. https://www.linkedin.com/in/deeppatel1607/
